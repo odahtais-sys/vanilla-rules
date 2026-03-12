@@ -1,3 +1,5 @@
 # Table of contents
 
-* [vanilla-rules](README.md)
+* [🦄 REGRAS DO VANILLA UNICORN 🦄](README.md)
+* [👑 HIERARQUIA 👑](hierarquia.md)
+* [NÃO SE ESQUEÇA❗❗](nao-se-esqueca.md)
