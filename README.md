@@ -2,7 +2,7 @@
 
 
 
-━━━━━━━━━━━━━1️⃣ **REGRAS GERAIS** ━━━━━━━━━━━━━━
+━━━━━━━━━━1️⃣ **REGRAS GERAIS** ━━━━━━━━━━━
 
 🤝 **Respeito e Igualdade**
 
@@ -33,7 +33,7 @@
 
 * Obrigatório durante o horário de trabalho.
 
-━━━━━━━━━━━━2️⃣ **REGRAS ESPECÍFICAS POR ÁREA** ━━━━━━━━━━━━
+━━━━━━━━2️⃣ **REGRAS ESPECÍFICAS POR ÁREA** ━━━━━━━━
 
 🔒 **Segurança**
 
