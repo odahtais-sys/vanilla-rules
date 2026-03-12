@@ -22,12 +22,12 @@
 
 💀 **Atividades ilícitas individuais**
 
-* Assaltos, sequestros e “caixinha” são permitidos **fora do uniforme do Vanilla**.
+* Assaltos, sequestros e “caixinha” são permitidos **SEM o uniforme do Vanilla**.
 * **Proibido** vincular o Vanilla a qualquer atividade ilícita (ex.: nunca usar o termo “lavagem de dinheiro”).
 
 📦 **Itens do baú**
 
-* Podem ser retirados para uso, **mas é EXPRESSAMENTE PROIBIDO retirar sem registro** na aba “Registro” do Discord.
+* Podem ser retirados para uso, **mas é EXPRESSAMENTE PROIBIDO retirar sem o registro** na aba “Registro” do Discord.
 
 👔 **Uniforme**
 
